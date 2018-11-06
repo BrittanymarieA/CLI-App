@@ -1,0 +1,25 @@
+{
+  "name": "CLI-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCostumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrittanymarieA/CLI-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrittanymarieA/CLI-App/issues"
+  },
+  "homepage": "https://github.com/BrittanymarieA/CLI-App#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "terminal-table": "0.0.12"
+  }
+}
